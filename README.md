@@ -136,6 +136,6 @@ O resultado deverá mostrar todos os produtos cadastrados.
 
 ---
 
-#### Entrega
+# Entrega
 
 No final de atividade leve para os professores, Davi e Samuel e mostre q esta funcionado o POST, PUT, PATCH, DELETE e GET dentro do Thunder Client
