@@ -138,6 +138,4 @@ O resultado deverá mostrar todos os produtos cadastrados.
 
 ## Resumo
 
-O exemplo de jogos mostra como organizar várias informações dentro de objetos.
-
-Na atividade, você deverá utilizar a mesma lógica para criar uma lista de produtos e exibir os dados no console.
+No final de atividade leve para os professores, Davi e Samuel e mostre q esta funcionado o POST, PUT, PATCH, DELETE e GET dentro do Thunder Client
