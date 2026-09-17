@@ -80,6 +80,12 @@ Crie um programa chamado:
 produtos.js
 ```
 
+## Coloque o nome da pasta:
+
+```text
+protudos_Tops
+```
+
 O programa deverá conter uma lista de produtos com as seguintes informações:
 
 - nome
