@@ -74,16 +74,16 @@ console.log(jogos);
 
 # Atividade
 
-Crie um programa chamado:
-
-```text
-produtos.js
-```
-
-## Coloque o nome da pasta:
+Coloque o nome da pasta:
 
 ```text
 protudos_Tops
+```
+
+## Crie um programa chamado:
+
+```text
+produtos.js
 ```
 
 O programa deverá conter uma lista de produtos com as seguintes informações:
@@ -94,7 +94,8 @@ O programa deverá conter uma lista de produtos com as seguintes informações:
 - preço
 - fornecedor
 
-O programa deve exibir a lista de produtos e suas informações no console.
+E crie o *server.js* para funcionar o Thunder Client
+
 
 ---
 
