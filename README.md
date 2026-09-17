@@ -92,7 +92,7 @@ O programa deve exibir a lista de produtos e suas informações no console.
 
 ---
 
-## Exemplo da estrutura
+## Exemplo da estrutura do *produtos.json*
 
 ```javascript
 [
