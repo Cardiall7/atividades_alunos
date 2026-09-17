@@ -28,7 +28,7 @@ Cada jogo possui as seguintes informações:
 ### Exemplo de código
 
 ```javascript
-const jogos = [
+[
     {
         id: 1,
         nome: "EA Sports FC 26",
@@ -53,9 +53,7 @@ const jogos = [
         ano: 2013,
         preco: 149.90
     }
-];
-
-console.log(jogos);
+]
 ```
 
 ### Explicação
