@@ -112,29 +112,16 @@ console.log(produtos);
 
 ## Desafio
 
-E faça funcionar dentro do Thunder Client o **GET, POST, PATCH, DELETE**.
+E faça funcionar dentro do Thunder Client o **GET, PUT, POST, PATCH, DELETE**.
 
-Depois execute o programa no terminal com:
+Usando no terninal:
 
 ```bash
 node produtos.js
 ```
 
-O resultado deverá mostrar todos os produtos cadastrados.
+Se fizer tudo certo estará funcionado as 5 ações do codigo.
 
----
-
-## Conceitos trabalhados
-
-- JavaScript
-- Variáveis
-- Arrays
-- Objetos
-- Listas
-- `console.log()`
-- Node.js
-
----
 
 # Entrega
 
