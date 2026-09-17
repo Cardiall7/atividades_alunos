@@ -112,7 +112,7 @@ console.log(produtos);
 
 ## Desafio
 
-Adicione pelo menos **5 produtos diferentes** na lista.
+E faça funcionar dentro do Thunder Client o **GET, POST, PATCH, DELETE**.
 
 Depois execute o programa no terminal com:
 
