@@ -62,11 +62,6 @@ A variável `jogos` contém uma lista de objetos.
 
 Cada objeto representa um jogo e possui suas próprias informações.
 
-O comando abaixo exibe todos os jogos no console:
-
-```javascript
-console.log(jogos);
-```
 
 ---
 
