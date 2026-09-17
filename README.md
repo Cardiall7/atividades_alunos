@@ -95,7 +95,7 @@ O programa deve exibir a lista de produtos e suas informações no console.
 ## Exemplo da estrutura
 
 ```javascript
-const produtos = [
+[
     {
         nome: "Teclado",
         categoria: "Informática",
@@ -103,9 +103,8 @@ const produtos = [
         preco: 120.00,
         fornecedor: "TechStore"
     }
-];
+]
 
-console.log(produtos);
 ```
 
 ---
